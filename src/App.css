@@ -1,3 +1,39 @@
+.main-div{
+  background-color: rgb(59, 31, 10);
+  height: auto;
+  width: 70%;
+  margin: 25px auto;
+}
+.search{
+  
+  width: 20%;
+  margin: 10px 5px;
+  border-radius: 7px;
+  
+}
+
+
+
+.header{
+  color: white;
+  text-align:center;
+  font-size: 30px;
+  padding: 30px 80px;
+  
+}
+
+.om{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
 .App {
   text-align: center;
 }
